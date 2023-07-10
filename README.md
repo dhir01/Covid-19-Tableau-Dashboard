@@ -21,7 +21,7 @@ The COVID-19 Tableau dashboard project offers a comprehensive and dynamic visual
     
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/dhir01/Covid-19-Tableau-Dashboard/blob/f9ee60fd66dd80497b1100d122e46d957a9f9810/img/tableau%20dashboard.JPG))
+![App Screenshot](img/tableau dashboard.JPG)
 
 
 ## 🔗 Links
