@@ -1,5 +1,5 @@
 
-# Covid-19 Dashboard
+# Covid-19 Tableau Dashboard
 The COVID-19 Tableau dashboard project offers a comprehensive and dynamic visualization of the pandemic's impact, empowering users to gain insights, monitor the situation, and make data-driven decisions.
 
 1. Objective: The objective of the project is to create an interactive and informative dashboard using Tableau to visualize and analyze COVID-19 data.
@@ -21,7 +21,7 @@ The COVID-19 Tableau dashboard project offers a comprehensive and dynamic visual
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/dhir01/Covid-19-Tableau-Dashboard/blob/f9ee60fd66dd80497b1100d122e46d957a9f9810/img/tableau%20dashboard.JPG))
 
 
 ## 🔗 Links
