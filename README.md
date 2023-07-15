@@ -14,7 +14,7 @@ The COVID-19 Tableau dashboard project offers a comprehensive and dynamic visual
 
 ## Open my project
 
--Install Tablue public to view my file or Click on the given link in thr link corner
+-Install Tableau public to view my file or Click on the given link in the link corner.
 
 
 
